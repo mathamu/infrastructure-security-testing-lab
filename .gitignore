@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+nmap_output.txt
+nmap_fast_scan.txt
+nmap_detailed_scan.txt
+nmap_vuln_check.txt
+
+# Local environment
+.venv/
+env/
+venv/
+.env
